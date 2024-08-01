@@ -19,7 +19,7 @@ This course contains lots of challenges for C, each challenge is a small C proje
 |      06 | 🎯 Counting Vowels in a String                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/113886'>Start Challenge</a> |
 |      07 | 🎯 Numbers excluding multiples of 3              | ★★☆          | <a target='_blank' href='https://labex.io/labs/113888'>Start Challenge</a> |
 |      08 | 🎯 Join Two Strings                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/113872'>Start Challenge</a> |
-|      09 | 🎯 Convert Between Kilometers And Miles Using C  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/113833'>Start Challenge</a> |
+|      09 | 🎯 Convert Between Kilometers and Miles Using C  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/113833'>Start Challenge</a> |
 |      10 | 🎯 Distribute Chocolates Among Kids              | ★★☆          | <a target='_blank' href='https://labex.io/labs/113843'>Start Challenge</a> |
 |      11 | 🎯 Multiply Array Elements by Ten                | ★★☆          | <a target='_blank' href='https://labex.io/labs/113882'>Start Challenge</a> |
 |      12 | 🎯 Swap Two Numbers using Temporary Variable     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/113913'>Start Challenge</a> |
@@ -47,7 +47,7 @@ This course contains lots of challenges for C, each challenge is a small C proje
 |      34 | 🎯 Calculate the Sum of Digits                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/113909'>Start Challenge</a> |
 |      35 | 🎯 Abundant Number Detection                     | ★★★          | <a target='_blank' href='https://labex.io/labs/113817'>Start Challenge</a> |
 |      36 | 🎯 Verify Perfect Number Existence               | ★★★          | <a target='_blank' href='https://labex.io/labs/113830'>Start Challenge</a> |
-|      37 | 🎯 Find Factors Of Given Number                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/113849'>Start Challenge</a> |
+|      37 | 🎯 Find Factors of Given Number                  | ★★☆          | <a target='_blank' href='https://labex.io/labs/113849'>Start Challenge</a> |
 |      38 | 🎯 Frequency of Characters in a String           | ★★☆          | <a target='_blank' href='https://labex.io/labs/113861'>Start Challenge</a> |
 |      39 | 🎯 Finding the Greatest Common Divisor           | ★★☆          | <a target='_blank' href='https://labex.io/labs/113863'>Start Challenge</a> |
 |      40 | 🎯 Finding Prime Numbers in a Range              | ★★★          | <a target='_blank' href='https://labex.io/labs/113898'>Start Challenge</a> |
