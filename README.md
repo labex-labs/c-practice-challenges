@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                             | Difficulty   | Practice                                                                                                                        |
-|---------|--------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                            | Difficulty   | Practice                                                                                                                        |
+|---------|-------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 🎯 Escape from the Maze                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-escape-from-the-maze-216602'>Start Challenge</a>                          |
 |      02 | 🎯 Copy File Content                             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-copy-file-content-298173'>Start Challenge</a>                             |
 |      03 | 🎯 Printing a Sentence Multiple Times            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/c-printing-a-sentence-multiple-times-113902'>Start Challenge</a>            |
